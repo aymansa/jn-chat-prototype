@@ -1,0 +1,8 @@
+C:\Projects\Prototypes\chat-proto\chat-proto\chat-proto\bin\Debug\netstandard2.0\chat-proto.deps.json
+C:\Projects\Prototypes\chat-proto\chat-proto\chat-proto\bin\Debug\netstandard2.0\chat-proto.dll
+C:\Projects\Prototypes\chat-proto\chat-proto\chat-proto\bin\Debug\netstandard2.0\chat-proto.pdb
+C:\Projects\Prototypes\chat-proto\chat-proto\chat-proto\obj\Debug\netstandard2.0\chat-proto.csproj.CoreCompileInputs.cache
+C:\Projects\Prototypes\chat-proto\chat-proto\chat-proto\obj\Debug\netstandard2.0\chat-proto.AssemblyInfoInputs.cache
+C:\Projects\Prototypes\chat-proto\chat-proto\chat-proto\obj\Debug\netstandard2.0\chat-proto.AssemblyInfo.cs
+C:\Projects\Prototypes\chat-proto\chat-proto\chat-proto\obj\Debug\netstandard2.0\chat-proto.dll
+C:\Projects\Prototypes\chat-proto\chat-proto\chat-proto\obj\Debug\netstandard2.0\chat-proto.pdb
